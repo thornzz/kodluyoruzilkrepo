@@ -1,5 +1,8 @@
 # Kodluyoruz Ilk Repo
 
+# Patika.dev profil linkim
+https://app.patika.dev/thornz
+
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![github](imgs/project.png)
